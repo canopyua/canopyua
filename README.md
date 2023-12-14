@@ -4,9 +4,8 @@ Work at "Astra devs"
 
 My public activity is low, since all my repositories are private.
 
-<h3 align="center">A passionate backend developer from UA</h3>
 
-<h3 align="left">Connect with me: *canopy.ua@gmail.com*</h3>
+<h3 align="left">Connect with me: canopy.ua@gmail.com</h3>
 <p align="left">
 </p>
 
